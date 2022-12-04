@@ -29,5 +29,5 @@ def solve_part2():
 
 
 if __name__ == "__main__":
-    print(solve_part1())
-    print(solve_part2())
+    print(solve_part1())  # 571
+    print(solve_part2())  # 917
